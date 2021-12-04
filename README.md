@@ -19,8 +19,6 @@ Result is: THE NEXT CIPHER KEYSQUARE IS THE ALPHABETS WITHOUT J STBASHTWOUPSRGBU
 
 decoded = 'STBASHTWOUPSRGBURYNISPBTAEILQSYDSIUBBZOYNSAFPQABTUYMSIPTQCOCILQSKSOCUBEBOCOHPCUDCPCLEAAFPQABUCPAZASC'
 
-We Can Use Playfair Cipher to Decrypt the message
-
 We Get Message as RSAENCRYPTNUMBERTWOHUNDREDFOURTYTHREEWITHNVALUEASTWOTHOUSANDFOURHUNDREDANDNINETEENANDEVALUEASELEVENX
 
 Which can be made out to be the following:
@@ -33,7 +31,7 @@ We Get the Answer as: 1942, which we can use to unlock the safe
 In the safe, we get the following message:
 TM, DTZ KTZSI RJ😔. HTSLWFYX. YMNX NX YMJ JSILTFQ. TW NX NY?🤨
 
-We can use brute force to find teh key(Ceaser Cipher)
+We can use brute force to find the key(Ceaser Cipher)
 Key is found to be 5
 
 We get the final message: OH, YOU FOUND ME😔. CONGRATS. THIS IS THE ENDGOAL. OR IS IT?🤨
